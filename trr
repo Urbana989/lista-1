@@ -518,7 +518,7 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1406" tvg-name="Sello TV" tvg-logo="https://cdn.m3u.cl/logo/1406_Sello_TV.png",Sello Tv
 https://elsellotv.com.ar:8443/hls/elsello.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="218" tvg-name="Señal Urbana" tvg-logo="https://cdn.m3u.cl/logo/218_Senal_Urbana.png",Señal Urbana+
-https://vivo.solumedia.com:19360/surbana/surbana.m3u8?PlaylistM3UCL
+https://vtm2.msinteractiva.com/urbanamas/urbanamas/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://cdn.m3u.cl/logo/288_Sicardi_TV.png",Sicardi
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1366" tvg-name="Solive TV" tvg-logo="https://cdn.m3u.cl/logo/1366_Solive_TV.png",So Live
